@@ -29,4 +29,6 @@ a{
 .btn1{
     background: red;
     border-radius: 100%;
+    color: white;
+    padding: 5px;
 }
